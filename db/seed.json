@@ -1,0 +1,133 @@
+{
+    "description": "Консультация стоматолога",
+    "price": 200,
+    "type": "dentist"
+}
+{
+    "description": "Фотополемерная пломба",
+    "price": 300,
+    "type": "dentist"
+}
+{
+    "description": "Фотополимерная реставрация",
+    "price": 500,
+    "type": "dentist"
+}
+{
+    "description": "Укрепление зуба титановым штифтом",
+    "price": 200,
+    "type": "dentist"
+}
+{
+    "description": "Обезболивание поверхностное",
+    "price": 50,
+    "type": "dentist"
+}
+{
+    "description": "Обезболивание губокое",
+    "price": 100,
+    "type": "dentist"
+}
+{
+    "description": "Лечение одного канала корня зуба",
+    "price": 150,
+    "type": "dentist"
+}
+{
+    "description": "Металокерамическая коронка",
+    "price": 1200,
+    "type": "dentist"
+}
+{
+    "description": "Безметалловое протезирование",
+    "price": 3000,
+    "type": "dentist"
+}
+{
+    "description": "Cьемный протез (акриловый)",
+    "price": 3500,
+    "type": "dentist"
+}
+{
+    "description": "Cьемный протез (нейлоновый)",
+    "price": 5500,
+    "type": "dentist"
+}
+{
+    "description": "Ультазвуковая чистка",
+    "price": 300,
+    "type": "dentist"
+}
+{
+    "description": "Полировка проф. пастами",
+    "price": 200,
+    "type": "dentist"
+}
+{
+    "description": "Отбеливание зубов",
+    "price": 3500,
+    "type": "dentist"
+}
+{
+    "title": "Чистка лица",
+    "description": "Комплексная чистка лица",
+    "price": "500 грн",
+    "url": "src/assets/images/beautician/services/chistka.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Пилинг",
+    "description": "Пилинг (химич)",
+    "price": "400 грн",
+    "url": "src/assets/images/beautician/services/piling.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Массаж лица",
+    "description": "Массаж лица (косметический, пластический, Жаке и др.) + Маска",
+    "price": "150 + 50 грн",
+    "url": "src/assets/images/beautician/services/massage.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Мезотерапия",
+    "description": "Мезотерапия (лучшие препараты на рыке Украины)",
+    "price": "500 грн 1 зона + стоимость препарата",
+    "url": "src/assets/images/beautician/services/antiage.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Контурная пластика",
+    "description": "Контурная пластика",
+    "price": "500 грн 1 зона + стоимость препарата",
+    "url": "src/assets/images/beautician/services/plastika.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Биоревитализация",
+    "description": "Биоревитализация",
+    "price": "500 грн 1 зона + стоимость препарата",
+    "url": "src/assets/images/beautician/services/biorevita.jpg",
+    "type": "cosmetics"
+}
+{
+    "title": "Ботокс",
+    "description": "Ботокс",
+    "price": "500 грн 1 зона + стоимость препарата",
+    "url": "",
+    "type": "cosmetics"
+}
+{
+    "title": "Анестестезия",
+    "description": "Анестезия местная кремом",
+    "price": "50 грн 1 зона",
+    "url": "",
+    "type": "cosmetics"
+}
+{
+    "title": "Анестезия ",
+    "description": "Анестезия местная иньекционная проводниковая",
+    "price": "200 грн 1 зона",
+    "url": "",
+    "type": "cosmetics"
+}
