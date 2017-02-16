@@ -13,11 +13,17 @@ var app = express();
 
 //CORS middleware
 var allowCrossDomain = function(req, res, next) {
-    res.header('Access-Control-Allow-Origin', [
-      '127.0.0.1',
-      '207.154.214.56:8000',
-      '192.168.169.101'
-    ]);
+    var allowedOrigins = [
+      'http://127.0.0.1',
+      'http://207.154.214.56:8000',
+      'http://192.168.169.101'
+    ];
+    var origin = req.headers.origin;
+    
+    if(allowedOrigins.indexOf(origin) > -1){
+         res.setHeader('Access-Control-Allow-Origin', origin);
+    }
+
     res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, body")
 
