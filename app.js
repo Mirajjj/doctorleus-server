@@ -17,7 +17,8 @@ var allowCrossDomain = function(req, res, next) {
       'http://127.0.0.1',
       'http://207.154.214.56:8000',
       'http://207.154.214.56:80',
-      'http://192.168.169.101'
+      'http://192.168.169.101',
+      'http://doctorleus.com'
     ];
     var origin = req.headers.origin;
     
